@@ -1,0 +1,33 @@
+{
+  "name": "multi-navigation-app",
+  "version": "1.0.3",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "multi-navigation-app.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+    "paper-tabs": "PolymerElements/paper-tabs#~1.0.10",
+    "iron-pages": "PolymerElements/iron-pages#~1.0.3",
+    "paper-drawer-panel": "PolymerElements/paper-drawer-panel#~1.0.4",
+    "paper-menu": "PolymerElements/paper-menu#~1.1.1",
+    "paper-card": "PolymerElements/paper-card#~1.0.7",
+    "paper-icon-button": "PolymerElements/paper-icon-button#~1.0.5"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
