@@ -2,21 +2,25 @@
   "name": "multi-navigation-app",
   "version": "1.0.3",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Sandro Tonon <sandro.tonon@seitenbau.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "A multi-navigation-app built with polymer.",
   "keywords": [
-    "web-component",
+    "web-components",
     "polymer",
     "seed"
   ],
   "main": "multi-navigation-app.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/glur4k/multi-navigation-app/",
   "ignore": [
     "/.*",
     "/test/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glur4k/multi-navigation-app.git"
+  },
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0",
     "paper-tabs": "PolymerElements/paper-tabs#~1.0.10",
