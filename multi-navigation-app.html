@@ -117,6 +117,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       }
     },
 
+    ready: function() {
+       this._countLinks();
+       this._addSelectedHandler();
+    },
+
     // Element Behavior
     _countLinks: function() {
       var count = 0;
